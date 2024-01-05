@@ -1,0 +1,11 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: rgb(157, 193, 195);  
+}
+h1{
+    text-align: center;
+    text-transform: uppercase;
+}

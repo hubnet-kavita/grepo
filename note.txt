@@ -1,0 +1,10 @@
+use of variable(let,var,cost)
+use of operator(arthmetic,relational logical,assigment,increment,decrement,ternary operator,)
+use of conditional statement(if,switch case)
+use of datatype(number,boolean,string,array,object,undefined)
+use of loop(for,while,do-while,for-in,)
+use of function(library,user-defined function)
+dom(document object module)
+event listner
+selecting html element changing html element 
+

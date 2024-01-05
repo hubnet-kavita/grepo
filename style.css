@@ -1,0 +1,13 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+#b1{
+    background-image:linear-gradient(orange,white,green);
+    height: 800px;
+}
+#h1{
+    text-align: center;
+    font-size: 35px;
+    color: blue;
+}
